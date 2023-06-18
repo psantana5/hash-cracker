@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmBwx9zT344IIpJJB-fFHU62TMDhDVctAovQSSaxosN_fakHRbWGWhBWkGNKduFgFTIE&usqp=CAU" alt="Hashcat Logo" width="200" height="90">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmBwx9zT344IIpJJB-fFHU62TMDhDVctAovQSSaxosN_fakHRbWGWhBWkGNKduFgFTIE&usqp=CAU" alt="Hashcat Logo" width="200" height="200">
 </h1>
 
 <p align="center">
